@@ -9,7 +9,7 @@
 
 <p>Un cliente solo puede comprar pasajes para una ciudad. Calcular el total que tiene que pagar un determinado cliente.</p>
 <br><br>
-<h2 style="text-align:center;"><code>Captura de Programa</code></h2>
+<h1 style="text-align:center;"><code>Captura de Programa</code></h1>
 
 ___
 <br>
