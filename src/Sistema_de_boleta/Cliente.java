@@ -1,4 +1,4 @@
-package Excercise1;
+package Sistema_de_boleta;
 public class Cliente {
     
     String cliente, destino;
