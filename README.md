@@ -13,7 +13,10 @@
 
 ___
 <br>
-<center><img src="https://imgur.com/b5yiCLY.png" alt=""></center>
+<div style="text-align:center;" >
+    <img src="https://imgur.com/b5yiCLY.png" alt="">
+</div>
+
 <br><br>
 
 <h1 style="text-align:center;"><code>Code</code></h1>
